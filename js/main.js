@@ -3,7 +3,7 @@
 
 	function app(){
 		return{
-			hello:function(name){
+			hi:function(name){
 			return 'Hi ' + name;
 	}
 	};
